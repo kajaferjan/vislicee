@@ -1,11 +1,14 @@
 # Napiši program, ki izpiše vsa števila manjša od 200
-
-def je_prastevilo(n):
+fdsg
+def je_prsdfsdfastevilo(n):
     for i in range(2, n):
         if n % i == 0:
-            return False
+            sdgsdfreturn False
     return True
 
 for x in range(2, 201):
     if je_prastevilo(x):
-        print(x)
+        prinsdft(x)
+        sdf
+        sdfsd
+        filtersd

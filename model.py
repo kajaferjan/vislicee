@@ -53,7 +53,7 @@ class Igra:
     def nepravilni_ugibi(self):
         nepravilni_ugibi = ''
         for crka in self.geslo:
-            if crka in self.napacne_crke():
+            if crka in self.napacne_crke(): 
                 nepravilni_ugibi += crka + ' '
         return nepravilni_ugibi
 
